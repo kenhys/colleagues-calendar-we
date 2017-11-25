@@ -1,0 +1,12 @@
+{
+    "applications": {
+	"gecko": {
+            "id": "colleagues-calendar-we@gigo-ice.org",
+            "strict_min_version": "57.0",
+            "strict_max_version": "57.*",
+            "update_url": "https://gigo-ice.org/colleagues-calendar-we/updates.json"
+	}
+    },
+    "name": "colleagues-calendar-we",
+    "version": "0.1.0"
+}
