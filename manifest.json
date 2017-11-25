@@ -7,6 +7,7 @@
             "update_url": "https://gigo-ice.org/colleagues-calendar-we/updates.json"
 	}
     },
+    "manifest_version": 2,
     "name": "colleagues-calendar-we",
     "version": "0.1.0"
 }
